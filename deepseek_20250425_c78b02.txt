@@ -1,0 +1,10 @@
+prismledger.ca/
+├── index.html          # Homepage
+├── about.html          # About page
+├── services.html       # Services page
+├── contact.html        # Contact page
+├── css/
+│   └── style.css       # Main stylesheet
+├── js/
+│   └── main.js         # JavaScript file
+└── images/             # All website images
